@@ -131,7 +131,7 @@ function lancerJeu() {
             score++
         }
         i++
-        afficherResultat(score, i)
+        afficherResultat(score, listeProposition.length)
         inputEcriture.value = ''
         if (listeProposition[i] === undefined) {
             afficherProposition("Le jeu est fini")
