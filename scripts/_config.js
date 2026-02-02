@@ -1,5 +1,33 @@
 
-const listeMots = ["Cachalot", "Pétunia", "Serviette"]
-const listePhrases = ["Pas de panique !", "La vie, l'univers et le reste", "Merci pour le poisson", "Le film était trop cool"]
+const listeMots = ["ordinateur",
+  "programme",
+  "javascript",
+  "internet",
+  "developpeur",
+  "application",
+  "algorithme",
+  "donnees",
+  "reseau",
+  "serveur",
+  "client",
+  "logiciel",
+  "materiel",
+  "code",
+  "fonction",
+  "variable",
+  "classe",
+  "objet",
+  "framework",
+  "base"]
+const listePhrases = ["J'apprends la programmation en JavaScript.",
+  "Le développeur écrit du code chaque jour.",
+  "Internet facilite la communication mondiale.",
+  "Une application peut résoudre des problèmes réels.",
+  "Les données sont stockées dans une base.",
+  "Le serveur répond aux requêtes du client.",
+  "Un algorithme permet de trouver une solution.",
+  "Le logiciel améliore la productivité.",
+  "La programmation demande de la logique.",
+  "Le framework accélère le développement."]
 
 
